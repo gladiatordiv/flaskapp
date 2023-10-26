@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'divyaatlasflask'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D9931D404454100B268B52022928FE8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C060F7A1F8764B209C24AE9E5BCA7B65 }}
